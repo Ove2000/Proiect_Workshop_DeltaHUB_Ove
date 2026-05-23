@@ -36,7 +36,7 @@ The project covers a full data science pipeline — from raw data acquisition an
 
 ## 🛠️ Methods & Tools
 
-<img width="2560" height="4362" alt="Bucharest_Heatwave_Workflow" src="https://github.com/user-attachments/assets/4cf206d0-3d61-49e6-b405-d79f90322c0b" />
+<img width="941" height="1672" alt="ChatGPT Image 23 mai 2026, 15_34_51" src="https://github.com/user-attachments/assets/a6b0ee51-d177-46c4-a65f-378b1ab1a28b" />
 
 ---
 
