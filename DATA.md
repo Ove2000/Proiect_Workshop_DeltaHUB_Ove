@@ -1,17 +1,17 @@
-# Date Brute — Acces și Replicare
+# Raw Data — Access & Replication
 
-Acest fișier documentează sursa datelor meteorologice utilizate în analiză și oferă instrucțiunile necesare pentru accesarea și replicarea rezultatelor.
+This file documents the source of the meteorological data used in the analysis and provides the necessary instructions for accessing and replicating the results.
 
 ---
 
-## Sursa datelor
+## Data Source
 
-Fișierele `.nc` (NetCDF) utilizate în această analiză provin din setul de date deschise al Guvernului României:
+The `.nc` (NetCDF) files used in this analysis are sourced from the Romanian Government's open data portal:
 
-**Date meteorologice zilnice grilate**
+**Daily Gridded Meteorological Data**
 🔗 [https://data.gov.ro/dataset/date-meteorologice-zilnice-gridate](https://data.gov.ro/dataset/date-meteorologice-zilnice-gridate)
 
-Datele sunt disponibile public prin portalul [data.gov.ro](https://data.gov.ro) și pot fi descărcate direct de la link-ul de mai sus.
+The data are publicly available through [data.gov.ro](https://data.gov.ro) and can be downloaded directly from the link above.
 
 ---
 
@@ -30,18 +30,18 @@ Datele sunt disponibile public prin portalul [data.gov.ro](https://data.gov.ro) 
 
 ---
 
-## Replicarea analizei
+## Replicating the Analysis
 
-Pentru a replica analiza, urmează pașii de mai jos:
+To replicate the analysis, follow the steps below:
 
-1. **Descarcă datele brute** de la link-ul de mai sus.
-2. **Plasează fișierele `.nc`** în directorul corespunzător din repo (ex: `data/raw/`).
-3. **Rulează script-urile de analiză** în ordinea indicată în documentație / notebook-uri.
+1. **Download the raw data** from the link above.
+2. **Place the `.nc` files** in the appropriate directory within the repo (e.g., `data/raw/`).
+3. **Run the analysis scripts** in the order indicated in the documentation / notebooks.
 
-> **Notă:** Asigură-te că ai instalate librăriile necesare pentru citirea fișierelor NetCDF (ex: `xarray`, `netCDF4`, `cfgrib` pentru Python).
+> **Note:** Make sure you have the necessary libraries installed for reading NetCDF files (e.g., `xarray`, `netCDF4`, `cfgrib` for Python).
 
 ---
 
-## Citare
+## Citation
 
-Dacă folosești aceste date în lucrările tale, te rugăm să citezi sursa originală conform termenilor indicați pe [data.gov.ro](https://data.gov.ro/dataset/date-meteorologice-zilnice-gridate).
+If you use these data in your work, please cite the original source according to the terms indicated on [data.gov.ro](https://data.gov.ro/dataset/date-meteorologice-zilnice-gridate).
