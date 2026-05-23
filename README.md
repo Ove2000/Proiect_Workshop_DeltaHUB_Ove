@@ -51,10 +51,11 @@ The project makes use of widely adopted libraries across data science, environme
 - `geopandas`, `shapely` — geospatial data processing
 
 ### Methodology
-- Time series analysis of temperature records
-- Detection and classification of heat wave events
-- Statistical characterization (frequency, intensity, duration)
-- Spatial analysis of heat wave distribution across the Bucharest region
+- Heatwave event detection, Heatwave indices (HWN, HWF, HWD, HWM, HWA) following the https://climpact-sci.org/indices/ methodology.
+- Time series analysis of temperature records.
+- Detection and classification of heat wave events.
+- Statistical characterization (frequency, intensity, duration).
+- Spatial analysis of heat wave distribution across the Bucharest region.
 
 ---
 
