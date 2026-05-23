@@ -25,9 +25,12 @@ The project covers a full data science pipeline — from raw data acquisition an
 
 | File | Description |
 |------|-------------|
+| `READM.md` | The context for this project and details about the analysis |
 | `notebook.ipynb` | Main Google Colab notebook containing all code, analyses, and visualizations |
 | `report.pdf / report.docx` | Detailed document outlining the key findings from the analyses |
-| `data/` | Raw and/or processed datasets used in the project *(if applicable)* |
+| `data.md` | Raw datasets used in the project  |
+| `heatwave_analysis_prompt.md` | The prompt used for the AI agent |
+
 
 > **Note:** Adjust the file names above to match the actual files in your repository.
 
