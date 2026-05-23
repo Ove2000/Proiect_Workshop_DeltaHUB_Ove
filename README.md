@@ -36,8 +36,7 @@ The project covers a full data science pipeline — from raw data acquisition an
 
 ## 🛠️ Methods & Tools
 
-
-<img width="2560" height="4362" alt="Bucharest_Heatwave_Workflow" src="https://github.com/user-attachments/assets/745bdbc1-54ba-44b4-a3b7-7e1e78b4fd3b" />
+<img width="2560" height="4362" alt="Bucharest_Heatwave_Workflow" src="https://github.com/user-attachments/assets/4cf206d0-3d61-49e6-b405-d79f90322c0b" />
 
 ---
 
