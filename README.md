@@ -74,11 +74,8 @@ To explore the project:
    git clone https://github.com/your-username/your-repo-name.git
    ```
 2. Open the notebook in [Google Colab](https://colab.research.google.com/) or a local Jupyter environment.
-3. Install any missing dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the cells sequentially to reproduce the analysis.
+
+3. Run the cells sequentially to reproduce the analysis.
 
 ---
 
