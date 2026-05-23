@@ -36,6 +36,11 @@ The project covers a full data science pipeline — from raw data acquisition an
 
 ## 🛠️ Methods & Tools
 
+
+<img width="2560" height="4362" alt="Bucharest_Heatwave_Workflow" src="https://github.com/user-attachments/assets/745bdbc1-54ba-44b4-a3b7-7e1e78b4fd3b" />
+
+---
+
 ### Platform
 - **Google Colab** — cloud-based Jupyter notebook environment
 - **Claude Code** — AI assistant for coding and analytical support
