@@ -39,7 +39,7 @@ The project covers a full data science pipeline — from raw data acquisition an
 - **Google Colab** — cloud-based Jupyter notebook environment
 
 ### Platform
-- **Claude code** — ai asistent
+- **Claude code** — ai asistent coding and analytical support
 
 ### Libraries & Frameworks
 The project makes use of widely adopted libraries across data science, environmental sciences, and geography, including but not limited to:
