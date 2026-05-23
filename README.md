@@ -31,9 +31,6 @@ The project covers a full data science pipeline — from raw data acquisition an
 | `data.md` | Raw datasets used in the project  |
 | `heatwave_analysis_prompt.md` | The prompt used for the AI agent |
 
-
-> **Note:** Adjust the file names above to match the actual files in your repository.
-
 ---
 
 ## 🛠️ Methods & Tools
