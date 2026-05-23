@@ -62,8 +62,6 @@ The project makes use of widely adopted libraries across data science, environme
 
 The dashboard below summarizes the evolution of five heatwave indices computed for the **Bucharest Area of Interest (1961–2025)**, based on the **Tx90** threshold (90th percentile of maximum temperature). All indices show a statistically significant **upward trend** over the 64-year period, confirmed by Sen's Slope estimates.
 
-![Heatwave Indices Dashboard — Bucharest AOI (1961–2025)](assets/dashboard_preview.png)
-
 | Index | Description |
 |-------|-------------|
 | **HWN** | Heatwave Number — count of distinct heatwave events per year |
@@ -72,7 +70,13 @@ The dashboard below summarizes the evolution of five heatwave indices computed f
 | **HWM** | Heatwave Magnitude — mean temperature anomaly during heatwaves |
 | **HWA** | Heatwave Amplitude — peak temperature anomaly during the hottest event |
 
-> 💡 An interactive version of this dashboard (built with Plotly) is available in [`HW_dashboard_interactive.html`](file:///C:/Users/Ove/Downloads/HW_dashboard_interactive.html — download and open locally in your browser.
+---
+
+💡 An interactive version of this dashboard (built with Plotly) — download and open locally in your browser.
+
+<img width="1395" height="855" alt="image" src="https://github.com/user-attachments/assets/d47bd126-a28f-4289-a39f-ccc73084b97e" />
+
+---
 
 ### 🔑 Main Conclusions
 
