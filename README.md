@@ -72,7 +72,7 @@ The dashboard below summarizes the evolution of five heatwave indices computed f
 | **HWM** | Heatwave Magnitude — mean temperature anomaly during heatwaves |
 | **HWA** | Heatwave Amplitude — peak temperature anomaly during the hottest event |
 
-> 💡 An interactive version of this dashboard (built with Plotly) is available in [`HW_dashboard_interactive.html`](HW_dashboard_interactive.html) — download and open locally in your browser.
+> 💡 An interactive version of this dashboard (built with Plotly) is available in [`HW_dashboard_interactive.html`](file:///C:/Users/Ove/Downloads/HW_dashboard_interactive.html — download and open locally in your browser.
 
 ### 🔑 Main Conclusions
 
